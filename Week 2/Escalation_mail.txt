@@ -1,0 +1,15 @@
+Subject: Critical Security Incident Escalation – Ransomware Detection
+
+A critical ransomware alert has been detected on Server-X. The system shows encryption activity linked to the malicious file crypto_locker.exe and IP address 192.168.1.50. The affected system has been isolated to prevent further spread. Immediate Tier-2 investigation is required to perform forensic analysis and remediation.
+
+14.2 Escalation Workflow
+
+Alert detection by SIEM
+
+Severity assessment
+
+Incident ticket creation
+
+Escalation to Tier-2 analyst
+
+Investigation and response
