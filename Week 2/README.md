@@ -1,13 +1,13 @@
-# SOC Internship – Week 2 Submission
-Security Operations Center (SOC) Practical Implementation
+# SOC Internship – Week 2 
+## Security Operations Center (SOC) Practical Implementation
 
 This repository contains the Week 2 internship work focused on Security Operations Center (SOC) operations, including alert prioritization, incident classification, alert triage, evidence preservation, and full incident response lifecycle implementation.
 
 The work demonstrates both theoretical understanding and practical simulation of real-world security monitoring and response activities using industry-standard cybersecurity frameworks and tools.
 
-Project Overview
+### Project Overview
 
-The objective of this task was to understand and implement core SOC operations such as:
+#### The objective of this task was to understand and implement core SOC operations such as:
 
 Alert prioritization and severity assessment
 
@@ -19,7 +19,7 @@ Digital evidence preservation procedures
 
 Full attack detection and response simulation
 
-The project follows structured cybersecurity methodologies based on:
+#### The project follows structured cybersecurity methodologies based on:
 
 MITRE ATT&CK – Attack technique mapping
 
